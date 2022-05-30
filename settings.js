@@ -15,15 +15,15 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6288232991394']
-global.premium = ['6288232991394']
-global.ownername = 'Thadz BotZ'
-global.botname = 'Zarn Bot'
-global.ig = 'https://instagram.com/rdtyaptralvrtha'
-global.youtube = 'https://youtube.com/channel/UCIDFLJlqldM5PVx_U_HbXWw'
-global.github = 'https://github.com/ThadzBotZ'
-global.packname = 'ZarnBot'
-global.author = '+62882007117302'
+global.owner = ['6281315017916']
+global.premium = ['6281315017916']
+global.ownername = 'Khalif'
+global.botname = 'Khalif BOTZ'
+global.ig = 'https://instagram.com/khalif135.gm'
+global.youtube = '-'
+global.github = 'https://github.com/Alif135'
+global.packname = 'BOTZ'
+global.author = '+6281315017916'
 global.sessionName = 'session'
 global.prefa = ['!','.','🐦','🐤','🗿']
 global.mess = {
